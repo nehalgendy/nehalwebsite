@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "tuo-tetto",
+    "title": "Tuo Tetto",
+    "category": "Campagne",
+    "description": "Tetti e infiltrazioni non saranno glamour, ma per me non esistono brief «noiosi». Per la campagna Meta Ads Lead Generation di **Tuo Tetto**, ho curato brief, copy e creatività multiformato (grafiche, e Reels), collaborando con i consulenti Meta per ridurre il CPL e migliorare la precisione geografica. Le leve chiave? **Geo-hook sul Veneto** nei primi 3 secondi e negli header, **offerta trasparente** contro il timore di rifacimenti totali (60 €/mq, 72 ore, drone gratuito) e **gerarchia cromatica mobile-first**. Il livello della mia dedizione? Alcuni sfondi delle ads li ho scattati io... **ed è letteralmente il tetto di casa mia**!",
+    "cover": "media/tetto-strappo.webp",
+    "items": [
+      {
+        "src": "media/tetto-strappo.webp",
+        "alt": "Annuncio con cartello a strappo e sopralluogo con drone",
+        "medium": "image"
+      },
+      {
+        "src": "media/tetto-ricerca.webp",
+        "alt": "Servizi di riparazione presentati in una barra di ricerca",
+        "medium": "image"
+      },
+      {
+        "src": "media/tetto-confronto.webp",
+        "alt": "Il confronto fotografico tra un tetto prima e dopo il ripristino",
+        "medium": "image"
+      },
+      {
+        "src": "media/tetto-tecnico.webp",
+        "alt": "Un tecnico al lavoro sul tetto",
+        "medium": "image"
+      },
+      {
+        "src": "media/tetto-verde.webp",
+        "alt": "Grafica verde e arancione con due tetti a confronto",
+        "medium": "image"
+      },
+      {
+        "src": "media/tetto-casa.webp",
+        "alt": "Il profilo di una casa incornicia l’offerta di risanamento",
+        "medium": "image"
+      },
+      {
+        "src": "media/tetto-promo.webp",
+        "alt": "Annuncio promozionale con cielo blu e cartellino del prezzo",
+        "medium": "image"
+      },
+      {
+        "src": "media/tuo-tetto.mp4",
+        "alt": "Reel Tuo Tetto con un messaggio sul telefono",
+        "medium": "video",
+        "poster": "media/tuo-tetto-poster.webp"
+      }
+    ]
+  },
+  {
+    "slug": "vendere-casa",
+    "title": "Vendere Casa a Costo Zero",
+    "category": "Campagne",
+    "description": "Vendere casa a zero provvigioni sembra troppo bello per essere vero — e trattandosi della **prima campagna ads lanciata dall’agenzia**, ne ho approfittato per sperimentare. Ho alternato **creatività più dirette a stili più artistici e collage** per testare cosa performasse meglio e guidare le campagne future, mantenendo tre punti fermi: **hook sul 100% del valore netto**, **visual ad alto contrasto** (logo in alto e testi incorniciati in bianco, rosso e blu) e **CTA immediata** (*«Compila il form o contattaci»* con telefono ed email).",
+    "cover": "media/casa-portafoglio.webp",
+    "items": [
+      {
+        "src": "media/casa-portafoglio.webp",
+        "alt": "Collage con casa, monete e portafoglio",
+        "medium": "image"
+      },
+      {
+        "src": "media/casa-annaffiatoio.webp",
+        "alt": "Una casa a forma di annaffiatoio fa crescere una pianta di banconote",
+        "medium": "image"
+      },
+      {
+        "src": "media/casa-scacchi.webp",
+        "alt": "Case su una scacchiera per la campagna immobiliare",
+        "medium": "image"
+      },
+      {
+        "src": "media/casa-zero.webp",
+        "alt": "Una casa poggia su una grande scritta zero per cento",
+        "medium": "image"
+      }
+    ]
+  },
+  {
+    "slug": "reels",
+    "title": "Lavoro in agenzia",
+    "category": "Gestione social",
+    "description": "Contenuti settimanali per Sever General Contractor e Vendere Casa a Costo Zero.",
+    "cover": "media/marco-poster.webp",
+    "items": [
+      {
+        "src": "media/marco.mp4",
+        "alt": "Marco parla dei materiali",
+        "medium": "video",
+        "poster": "media/marco-poster.webp"
+      },
+      {
+        "src": "media/simeone.mp4",
+        "alt": "Simeone racconta gli spazi di lavoro",
+        "medium": "video",
+        "poster": "media/simeone-poster.webp"
+      },
+      {
+        "src": "media/casa-centro.mp4",
+        "alt": "Centro o periferia?",
+        "medium": "video",
+        "poster": "media/casa-centro-poster.webp"
+      },
+      {
+        "src": "media/casa-commerciale-1.webp",
+        "alt": "Residenziale vs commerciale. Come stabilire il prezzo migliore per venderli?",
+        "medium": "image"
+      },
+      {
+        "src": "media/casa-commerciale-2.webp",
+        "alt": "La giusta valutazione è la chiave per vendere al meglio.",
+        "medium": "image"
+      }
+    ]
+  },
+  {
+    "slug": "ca-foscari",
+    "title": "Ca’ Foscari Short Film Festival",
+    "category": "Social & editoria",
+    "description": "Durante la mia esperienza al **Ca' Foscari Short Film Festival**, ho collaborato attivamente con il **team Social Media & Comunicazione** e con il **team Redazione e Design del Catalogo**.\n\n**Per la parte social,** mi sono occupata della creazione e pubblicazione di diversi post su Instagram, utilizzando hashtag per aggiornare il pubblico sugli ospiti e sui film in programma.\n\n**Per quanto riguarda il catalogo**, ho redatto le sinossi di alcuni cortometraggi e curato la loro impaginazione: un'opportunità che mi ha permesso di applicare per la prima volta Adobe InDesign in un contesto professionale e di lavoro di squadra.\n\nQui trovate alcuni esempi dei contenuti social realizzati, mentre il catalogo completo sfogliabile lo trovate cliccando sull’immagine qui sotto.",
+    "cover": "media/festival-ingresso.webp",
+    "items": [
+      {
+        "src": "media/festival-ingresso.webp",
+        "alt": "All’ingresso del festival accanto alla locandina",
+        "medium": "image",
+        "url": "https://www.instagram.com/cafoscarishort/?utm_source=ig_web_button_share_sheet",
+        "link_title": "Visita il profilo Instagram del Ca’ Foscari Short Film Festival"
+      },
+      {
+        "src": "media/festival-ospite.webp",
+        "alt": "Un ospite accanto al manifesto del festival",
+        "medium": "image",
+        "url": "https://www.instagram.com/cafoscarishort/?utm_source=ig_web_button_share_sheet",
+        "link_title": "Visita il profilo Instagram del Ca’ Foscari Short Film Festival"
+      },
+      {
+        "src": "media/festival-incontro.webp",
+        "alt": "Post Instagram dedicato a un incontro del festival",
+        "medium": "image"
+      },
+      {
+        "src": "media/festival-intervista.webp",
+        "alt": "Post Instagram con il ritratto di un ospite",
+        "medium": "image"
+      },
+      {
+        "src": "media/festival-social-ospite.webp",
+        "alt": "Pubblicazione Instagram del ritratto accanto al manifesto",
+        "medium": "image"
+      },
+      {
+        "src": "media/festival-social-ingresso.webp",
+        "alt": "Pubblicazione Instagram dall’ingresso del festival",
+        "medium": "image"
+      }
+    ],
+    "catalogue": {
+      "url": "https://www.unive.it/web/fileadmin/user_upload/eventi/short/doc/2022/Short12_Catalogue2022-1.pdf",
+      "cover": "media/short12-catalogue.webp"
+    }
+  },
+  {
+    "slug": "hekayat-saleh",
+    "title": "Hekayat Saleh",
+    "category": "Web & illustrazione",
+    "description": "Per la libreria online ho disegnato Saleh in Procreate e l’ho portato nelle pagine del sito. La mascotte torna in tavole illustrate e in una breve storia in arabo.",
+    "cover": "media/saleh-laptop.webp",
+    "items": [
+      {
+        "src": "media/saleh-laptop.webp",
+        "alt": "La libreria online Hekayat Saleh su un computer portatile",
+        "medium": "image"
+      },
+      {
+        "src": "media/saleh-site.mp4",
+        "alt": "Una visita alla homepage e alle proposte della libreria online",
+        "medium": "video",
+        "poster": "media/saleh-site-poster.webp"
+      }
+    ]
+  },
+  {
+    "slug": "rossini",
+    "title": "RistoPub Rossini",
+    "category": "Grafica editoriale",
+    "description": "Una tovaglietta personalizzata per il RistoPub Rossini. La composizione riunisce il marchio, le informazioni per il tavolo e i richiami al cinema.",
+    "cover": "media/rossini-mockup.webp",
+    "items": [
+      {
+        "src": "media/rossini-mockup.webp",
+        "alt": "La tovaglietta del RistoPub Rossini su un tavolo",
+        "medium": "image"
+      },
+      {
+        "src": "media/rossini-tovaglietta.webp",
+        "alt": "La grafica completa della tovaglietta",
+        "medium": "image"
+      }
+    ]
+  },
+  {
+    "slug": "illustrations",
+    "title": "Dal mio quaderno",
+    "category": "Illustrazione",
+    "description": "Questa pagina serve solo a dimostrare che ho un’anima. Disegno da quando ero piccola, e quelli che vedete qui non sono i miei lavori migliori — anzi, sono quasi tutti incompiuti, colorati a metà, abbandonati o privi di senso a una seconda occhiata. Ultimamente mi becco troppo spesso a valutare persino i miei hobby in base a come renderanno sui social, quindi ho deciso: renderò il «non finito» la nuova tendenza. Posso spacciarla per una profonda teoria filosofica tipo *«è l’incompiuto a definire un artista»* o cose simili? Non so se posso farlo, ma lo farò eccome.",
+    "cover": "media/red-clock.webp",
+    "items": [
+      {
+        "src": "media/red-clock.webp",
+        "alt": "Una figura sul divano sotto un grande orologio rosso",
+        "medium": "image"
+      },
+      {
+        "src": "media/carolona.webp",
+        "alt": "Carolona tra vetrine e borse in una pagina illustrata",
+        "medium": "image"
+      },
+      {
+        "src": "media/be-daring.webp",
+        "alt": "La scritta Be Daring con una creatura verde al posto della R",
+        "medium": "image"
+      },
+      {
+        "src": "media/be-daring-poster.webp",
+        "alt": "La linea rossa del lettering diventa un serpente nel manifesto",
+        "medium": "image"
+      },
+      {
+        "src": "media/interno.webp",
+        "alt": "Studio di un interno con mattoni a vista",
+        "medium": "image"
+      },
+      {
+        "src": "media/scaffale.webp",
+        "alt": "Figura disegnata a linea davanti a uno scaffale",
+        "medium": "image"
+      },
+      {
+        "src": "media/figura.webp",
+        "alt": "Studio di una figura in piedi con una borsa",
+        "medium": "image"
+      },
+      {
+        "src": "media/saleh-storie.webp",
+        "alt": "Una giornata con Saleh, tavola a colori",
+        "medium": "image"
+      },
+      {
+        "src": "media/saleh-quaderno.webp",
+        "alt": "Saleh e un gatto nero affacciati su una pagina di quaderno",
+        "medium": "image"
+      },
+      {
+        "src": "media/saleh-875.webp",
+        "alt": "Saleh immagina il pasto prima dell’alba",
+        "medium": "image"
+      },
+      {
+        "src": "media/saleh-876.webp",
+        "alt": "Saleh si prepara per la festa",
+        "medium": "image"
+      },
+      {
+        "src": "media/saleh-877.webp",
+        "alt": "Saleh indossa i vestiti della festa",
+        "medium": "image"
+      },
+      {
+        "src": "media/saleh-878.webp",
+        "alt": "La sera prima della festa",
+        "medium": "image"
+      },
+      {
+        "src": "media/saleh-879.webp",
+        "alt": "Saleh festeggia l’Eid",
+        "medium": "image"
+      },
+      {
+        "src": "media/fantasmi-e-gatti.webp",
+        "alt": "Due fantasmi dipinti su un supporto rotondo attorno a un calderone. Sul tavolo, una seconda illustrazione con quattro gatti su sfondi colorati.",
+        "medium": "image"
+      }
+    ]
+  },
+  {
+    "slug": "danfoss",
+    "title": "Danfoss",
+    "category": "Grafica editoriale",
+    "description": "Un concept personale di brochure, preparato per un colloquio con Danfoss. Ho impaginato testo e immagini con Adobe InDesign e Photoshop.",
+    "cover": "media/danfoss-brochure.webp",
+    "items": [
+      {
+        "src": "media/danfoss-brochure.webp",
+        "alt": "Mockup della brochure con pannelli rossi, fotografie e testo",
+        "medium": "image"
+      }
+    ]
+  }
+]
